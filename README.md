@@ -2,7 +2,7 @@
 
 A simple machine learning project to classify iris flowers into Setosa, Versicolor, or Virginica based on sepal and petal dimensions.
 
-🧠 Tech Stack
+Tech Stack
 
 Python
 
@@ -12,7 +12,7 @@ Matplotlib, Seaborn
 
 Scikit-learn
 
-⚙️ Steps
+Steps
 
 Load the Iris dataset
 
