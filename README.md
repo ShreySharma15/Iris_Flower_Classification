@@ -5,19 +5,13 @@ A simple machine learning project to classify iris flowers into Setosa, Versicol
 Tech Stack
 
 Python
-
 Pandas, NumPy
-
 Matplotlib, Seaborn
-
 Scikit-learn
 
 Steps
 
 Load the Iris dataset
-
 Explore data (visualize & analyze)
-
 Train ML model (Logistic Regression)
-
 Evaluate accuracy and predict species
